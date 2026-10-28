@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 90,
+    "reason": "Illustrative score: strong relevant experience, confirmed mandatory requirements, competitive price, 12-week timeline, and a well-defined project team."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 84,
+    "reason": "Illustrative score: meets stated mandatory requirements and offers a 13-week timeline, 12-year workmanship warranty, six-person crew, and detailed safety and monitoring plans."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 80,
+    "reason": "Illustrative score: meets stated mandatory requirements and offers strong experience and warranties, but its price and 14-week timeline are less competitive."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not evidenced; verify the mandatory requirement before scoring."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The completion timeline is not specified, so compliance with the 16-week project limit cannot yet be confirmed."
+  }
+]
